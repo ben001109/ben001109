@@ -50,11 +50,11 @@
 
 > 容器化的共享虛擬經濟與社群遊戲原型；用 API、背景排程與 Discord 互動探索玩家經濟系統。
 
-### 📡 [STEM](https://github.com/ben001109/STEM) — research prototype
+### 🤖 [Binance Auto Trader](https://github.com/ben001109/Binance-Auto-Trader) — research prototype
 
-<code>ESP32</code> · <code>LoRa</code> · <code>GPS</code> · <code>IoT</code>
+<code>Python</code> · <code>asyncio</code> · <code>Textual</code> · <code>Testnet-first</code>
 
-> 結合 LoRa 通訊、GPS／地理圍欄與 Web/API 的物聯網告警原型；定位為場域與通訊流程的技術實驗。
+> 以 Python 打造的交易研究與監控終端，整合策略實驗、Testnet 優先、分階段風控與可追溯訂單流程。
 
 <details>
 <summary><b>🧪 更多實驗</b> — systems, communities, and learning</summary>
