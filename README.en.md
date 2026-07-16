@@ -50,11 +50,11 @@ My current interests include:
 
 > A containerised prototype for a shared virtual economy and community game, exploring player economies through an API, scheduled jobs, and Discord interaction.
 
-### 📡 [STEM](https://github.com/ben001109/STEM) — research prototype
+### 🤖 [Binance Auto Trader](https://github.com/ben001109/Binance-Auto-Trader) — research prototype
 
-<code>ESP32</code> · <code>LoRa</code> · <code>GPS</code> · <code>IoT</code>
+<code>Python</code> · <code>asyncio</code> · <code>Textual</code> · <code>Testnet-first</code>
 
-> An IoT alerting prototype that combines LoRa communication, GPS/geofencing, and a web/API interface for field and communication-flow experiments.
+> A Python trading research and monitoring console with strategy experiments, testnet-first defaults, staged risk controls, and auditable order flows.
 
 <details>
 <summary><b>🧪 More experiments</b> — systems, communities, and learning</summary>
