@@ -16,7 +16,7 @@ My current interests include:
 
 - Minecraft creator tools
 - Interactive web and visual learning
-- Systems programming, IoT, and community prototypes
+- Systems programming, applied AI/ML, and community prototypes
 
 ## 🚀 Selected work
 
@@ -56,6 +56,22 @@ My current interests include:
 
 > A Python trading research and monitoring console with strategy experiments, testnet-first defaults, staged risk controls, and auditable order flows.
 
+## 🤝 Team work · [AgriNova-Orbital](https://github.com/AgriNova-Orbital)
+
+These are projects I contribute to as part of the AgriNova-Orbital team; the products, research, and outcomes belong to the team.
+
+### 🌾 [Ceres AI Pipeline](https://github.com/AgriNova-Orbital/ceres-ai-pipeline)
+
+<code>Team project</code> · <code>Python</code> · <code>Sentinel-2</code> · <code>CNN-LSTM</code> · <code>Flask</code> · <code>Redis</code> · <code>Docker</code>
+
+> A machine-learning pipeline for wheat-rust risk modelling from Sentinel-2/Earth Engine time-series data, spanning GeoTIFF dataset building, staged CNN-LSTM training and evaluation, and a control panel with Redis-backed jobs.
+
+### 🌳 [UrbanCanopy](https://github.com/AgriNova-Orbital/urbancanopy) — research prototype
+
+<code>Team project</code> · <code>Python</code> · <code>Geospatial data</code> · <code>Next.js</code> · <code>MapLibre</code>
+
+> An urban-cooling research prototype that compares city heat and greenness signals through geospatial data, with an interactive map for planting-priority zones.
+
 <details>
 <summary><b>🧪 More experiments</b> — systems, communities, and learning</summary>
 
@@ -76,7 +92,8 @@ My current interests include:
 ## 🛠️ Technical directions
 
 <code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C/C++</code><br>
-<code>Desktop tools</code> · <code>Interactive web</code> · <code>Systems programming</code> · <code>Docker</code> · <code>IoT</code>
+<code>Desktop tools</code> · <code>Interactive web</code> · <code>Systems programming</code><br>
+<code>Docker</code> · <code>ML pipelines</code> · <code>Geospatial data</code>
 
 ## 🤝 Collaborate
 
