@@ -16,7 +16,7 @@
 
 - Minecraft 創作者工具
 - 互動式 Web 與視覺化學習
-- 系統程式、IoT 與社群型原型
+- 系統程式、應用型 AI/ML 與社群型原型
 
 ## 🚀 精選作品
 
@@ -56,6 +56,22 @@
 
 > 以 Python 打造的交易研究與監控終端，整合策略實驗、Testnet 優先、分階段風控與可追溯訂單流程。
 
+## 🤝 團隊作品 · [AgriNova-Orbital](https://github.com/AgriNova-Orbital)
+
+以下為我在 AgriNova-Orbital 參與的團隊專案；產品、研究與成果歸屬團隊。
+
+### 🌾 [Ceres AI Pipeline](https://github.com/AgriNova-Orbital/ceres-ai-pipeline)
+
+<code>Team project</code> · <code>Python</code> · <code>Sentinel-2</code> · <code>CNN-LSTM</code> · <code>Flask</code> · <code>Redis</code> · <code>Docker</code>
+
+> 以 Sentinel-2／Earth Engine 時序資料進行小麥鏽病風險建模的機器學習管線；涵蓋 GeoTIFF 資料集建置、分階段 CNN-LSTM 訓練與評估，以及具 Redis 背景工作的控制台。
+
+### 🌳 [UrbanCanopy](https://github.com/AgriNova-Orbital/urbancanopy) — research prototype
+
+<code>Team project</code> · <code>Python</code> · <code>Geospatial data</code> · <code>Next.js</code> · <code>MapLibre</code>
+
+> 都市降溫研究原型，透過地理空間資料比較城市的熱／綠度訊號，並以互動地圖呈現種植優先區。
+
 <details>
 <summary><b>🧪 更多實驗</b> — systems, communities, and learning</summary>
 
@@ -76,7 +92,8 @@
 ## 🛠️ 技術方向
 
 <code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C/C++</code><br>
-<code>Desktop tools</code> · <code>Interactive web</code> · <code>Systems programming</code> · <code>Docker</code> · <code>IoT</code>
+<code>Desktop tools</code> · <code>Interactive web</code> · <code>Systems programming</code><br>
+<code>Docker</code> · <code>ML pipelines</code> · <code>Geospatial data</code>
 
 ## 🤝 協作
 
