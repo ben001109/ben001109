@@ -92,19 +92,19 @@ These are projects I contribute to as part of the AgriNova-Orbital team; the pro
 ## 🛠️ Skills tree
 
 **Minecraft and creator tools**<br>
-<code>Minecraft Plugin Development</code> · <code>Java</code> · <code>Python</code> · <code>PyQt5</code> · <code>Litematic</code>
+![Minecraft Plugin Development](https://img.shields.io/badge/Minecraft_Plugin_Development-62B47A?style=for-the-badge&logo=minecraft&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![Litematic](https://img.shields.io/badge/Litematic-59636E?style=for-the-badge&logo=minecraft&logoColor=white)
 
 **Web and backend**<br>
-<code>JavaScript</code> · <code>TypeScript</code> · <code>Vue</code> · <code>Flask</code> · <code>Fastify</code> · <code>Clerk</code> · <code>Supabase</code> · <code>Prisma</code> · <code>Web Audio API</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Discord</code> · <code>Docker</code> · <code>background jobs</code>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Web Audio API](https://img.shields.io/badge/Web_Audio_API-333333?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Background Jobs](https://img.shields.io/badge/Background_Jobs-59636E?style=for-the-badge)
 
 **AI/ML and geospatial**<br>
-<code>CNN-LSTM</code> · <code>NumPy</code> · <code>Sentinel-2</code> · <code>Google Earth Engine</code> · <code>GeoTIFF</code> · <code>MapLibre</code>
+![CNN-LSTM](https://img.shields.io/badge/CNN--LSTM-7B61A8?style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Sentinel-2](https://img.shields.io/badge/Sentinel--2-2E7D32?style=for-the-badge) ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white) ![GeoTIFF](https://img.shields.io/badge/GeoTIFF-6B8E23?style=for-the-badge) ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge)
 
 **Systems programming**<br>
-<code>C</code> · <code>C++</code> · <code>Linux</code> · <code>UEFI</code> · <code>x86_64</code> · <code>QEMU</code> · <code>GDB</code> · <code>Go</code>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![UEFI](https://img.shields.io/badge/UEFI-555555?style=for-the-badge) ![x86_64](https://img.shields.io/badge/x86__64-555555?style=for-the-badge) ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-4EAA25?style=for-the-badge) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Terminal and async**<br>
-<code>asyncio</code> · <code>Textual</code>
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Textual](https://img.shields.io/badge/Textual-6D28D9?style=for-the-badge)
 
 ## 🤝 Collaborate
 
