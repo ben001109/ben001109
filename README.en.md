@@ -14,7 +14,7 @@ I start from concrete user workflows and turn complex processes into clear, usab
 
 My current interests include:
 
-- Minecraft creator tools
+- Minecraft plugin development and creator tools
 - Interactive web and visual learning
 - Systems programming, applied AI/ML, and community prototypes
 
@@ -89,11 +89,22 @@ These are projects I contribute to as part of the AgriNova-Orbital team; the pro
 - Keeping experiments honest about what is and is not validated.
 - Using technology to support creativity, learning, and everyday work.
 
-## 🛠️ Technical directions
+## 🛠️ Skills tree
 
-<code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C/C++</code><br>
-<code>Desktop tools</code> · <code>Interactive web</code> · <code>Systems programming</code><br>
-<code>Docker</code> · <code>ML pipelines</code> · <code>Geospatial data</code>
+**Minecraft and creator tools**<br>
+<code>Minecraft Plugin Development</code> · <code>Java</code> · <code>Python</code> · <code>PyQt5</code> · <code>Litematic</code>
+
+**Web and backend**<br>
+<code>JavaScript</code> · <code>TypeScript</code> · <code>Vue</code> · <code>Flask</code> · <code>Fastify</code> · <code>Clerk</code> · <code>Supabase</code> · <code>Prisma</code> · <code>Web Audio API</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Discord</code> · <code>Docker</code> · <code>background jobs</code>
+
+**AI/ML and geospatial**<br>
+<code>CNN-LSTM</code> · <code>NumPy</code> · <code>Sentinel-2</code> · <code>Google Earth Engine</code> · <code>GeoTIFF</code> · <code>MapLibre</code>
+
+**Systems programming**<br>
+<code>C</code> · <code>C++</code> · <code>Linux</code> · <code>UEFI</code> · <code>x86_64</code> · <code>QEMU</code> · <code>GDB</code> · <code>Go</code>
+
+**Terminal and async**<br>
+<code>asyncio</code> · <code>Textual</code>
 
 ## 🤝 Collaborate
 

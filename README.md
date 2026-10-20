@@ -14,7 +14,7 @@
 
 目前特別關注：
 
-- Minecraft 創作者工具
+- Minecraft 插件開發與創作者工具
 - 互動式 Web 與視覺化學習
 - 系統程式、應用型 AI/ML 與社群型原型
 
@@ -89,11 +89,22 @@
 - 保留實驗性，但不把「還沒驗證」包裝成完成品。
 - 讓技術服務人的創作、學習與日常工作。
 
-## 🛠️ 技術方向
+## 🛠️ 技能樹
 
-<code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>C/C++</code><br>
-<code>Desktop tools</code> · <code>Interactive web</code> · <code>Systems programming</code><br>
-<code>Docker</code> · <code>ML pipelines</code> · <code>Geospatial data</code>
+**Minecraft 與創作者工具**<br>
+<code>Minecraft 插件開發</code> · <code>Java</code> · <code>Python</code> · <code>PyQt5</code> · <code>Litematic</code>
+
+**Web 與後端**<br>
+<code>JavaScript</code> · <code>TypeScript</code> · <code>Vue</code> · <code>Flask</code> · <code>Fastify</code> · <code>Clerk</code> · <code>Supabase</code> · <code>Prisma</code> · <code>Web Audio API</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Discord</code> · <code>Docker</code> · <code>背景工作</code>
+
+**AI/ML 與地理空間**<br>
+<code>CNN-LSTM</code> · <code>NumPy</code> · <code>Sentinel-2</code> · <code>Google Earth Engine</code> · <code>GeoTIFF</code> · <code>MapLibre</code>
+
+**系統程式**<br>
+<code>C</code> · <code>C++</code> · <code>Linux</code> · <code>UEFI</code> · <code>x86_64</code> · <code>QEMU</code> · <code>GDB</code> · <code>Go</code>
+
+**終端與非同步**<br>
+<code>asyncio</code> · <code>Textual</code>
 
 ## 🤝 協作
 
